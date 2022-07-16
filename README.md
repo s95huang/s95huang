@@ -1,16 +1,17 @@
-### Hi there 👋
+-  I am Shucheng (Bruce) Huang
+
+* I am currently the autonomous driving lead at [Almon Equipment Limited](https://www.almon.ca) \
+(official title is Autonomous Control Systems Engineer).
+* I am implementing L2/4 autonomy on Class 6-8 heavy-duty trucks (diesel, electric, or hydrogen-powered)
+* Please refer to [autonomous project](https://www.almon.ca/autonomous-truck/) and [hydrogen project](https://www.almon.ca/hydrogen-fuel-cell-class-8-trucks-for-the-azetec-project/
+) for additional information.
+
+* I received my master degree at the Mechanical and Mechatronics Engineering, University of Waterloo in 2020
+* I received my bachelor degree at the Mechanical and Nuclear Engineering, Pennsylvania State University in 2018
+
+
+[![s95huang's GitHub stats](https://github-readme-stats.vercel.app/api?username=s95huang&theme=tokyonight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
-**s95huang/s95huang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Related source is copied from: https://kilienazure.com/github-profile-readme/
 -->
